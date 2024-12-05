@@ -4,7 +4,7 @@
 - 🌱 熟练使用 nestjs 开发服务   熟悉java  springboot  开发
 - 💞️ I’m looking to collaborate on ...
 - 📫可通过wshijiangheng@163.com 联系我
-- 📫可通过16622136952 联系我
+- 📫可通过19113140927 联系我
 
 <!---
 jianghengheng/jianghengheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
